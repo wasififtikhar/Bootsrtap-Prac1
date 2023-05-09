@@ -1,0 +1,86 @@
+html{
+   
+    height: 100%;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 70vh;
+    opacity: .99;
+}
+.my-font{
+    font-family: 'Spline Sans Mono', monospace;
+}
+.my-img img{
+    /* width: 100% !important; */
+    height: 100% !important;
+}
+
+.my-size{
+    height: 5px !important;
+    opacity: 1;
+}
+.ftdiv{
+    border-left: 4px solid black;
+}
+#a1:hover{
+    color: red !important;
+}
+.la:hover{
+     text-decoration: underline !important;
+}
+.mn_tpc{
+    background-color: rgb(0, 0, 0, .5);
+    transition: all 1s !important;
+}
+.dd_a:hover{
+    background-color: red !important;
+    transition: all .5s;
+}
+.my_modal{
+    background-color: rgb(0, 0, 0, .7) !important;
+}
+.modal-header{
+    border: none !important;
+}
+.my_input{
+    background-color: rgb(0, 0, 0, 0) !important;
+    outline: none !important;
+     border-top: none;
+     border-left: none;
+     border-right: none;
+     border-radius: 0;
+}
+.my_h2{
+    word-spacing: 4px !important;
+     background-color: rgb(10, 125, 248, .1) !important;
+}
+.mdl{
+  border-radius: 30px !important;
+}
+.my_sec{
+    background-image: url('bc1.png');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+}
+
+.overlay{
+    background-color: rgb(255, 255, 255, .3) !important;
+
+}
+.overlay2{
+    background-color: rgb(255, 255, 255, .5) !important;
+    
+}
+.hv:hover img{
+   opacity: .7;
+   transform: scale(1.09, 1.09);
+   transition: all .5s linear;
+}
+.overflow{
+    overflow: hidden;
+}
+.f_bdr{
+    border-radius: 20px;
+}
